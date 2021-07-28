@@ -8,4 +8,7 @@
     - staged - git will track all the changes you do to the files 
     - committed - final changes which you want to share with the remote repository 
 
+### git config 
+- git config --global user.name <userName>
+- git config --global user.email <user.email>
 
